@@ -1,2 +1,3 @@
 # ssn_superpixels-
-Superpixel Sampling Networks (ECCV2018)
+The caffe floder is from https://github.com/BVLC/caffe
+This code is from the official https://github.com/NVlabs/ssn_superpixels,I  revise some of them so that you could run with python3 on windows.
